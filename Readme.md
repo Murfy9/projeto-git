@@ -7,3 +7,4 @@ Revisando o que aprendi com Git.
 - git branch -M
 - git remote add origin
 - git push -u origin
+- git pull
