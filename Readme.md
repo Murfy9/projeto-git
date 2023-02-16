@@ -7,8 +7,5 @@ Revisando o que aprendi com Git.
 - git branch -M
 - git remote add origin
 - git push -u origin
-<<<<<<< HEAD
-- git merge
-=======
 - git pull
->>>>>>> 31592d08639d58ddf1fc9fbdcf654c7fea0c42dd
+- git merge
